@@ -4,7 +4,7 @@ import axios from "axios";
 
 // const baseURL = "https://playtubebyyashpz.onrender.com/api/v1";
 // const baseURL = "http://localhost:8000/api/v1";
-const baseURL =  "http://localhost:8000/api/v1" ;
+const baseURL =  "https://weebwatch.onrender.com/api/v1";
 
 export const axiosInstance = axios.create({
   baseURL,
